@@ -2,8 +2,8 @@
 This is to Debloat automatic generated files on F:\  Microsoft Windows Home Server 2011.
 
 # Requirements
-a Microsoft Windows Home Server 2011 (or other Microsoft Windows install) whit a F:\ drive
-b .Net 4.6.1
+a <br \> Microsoft Windows Home Server 2011 (or other Microsoft Windows install) whit a F:\ drive
+b <br \> .Net 4.6.1
 
 # Tested on
 Microsoft Windows Home Server 2011
