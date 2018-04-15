@@ -13,24 +13,24 @@ namespace Debloat_files
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.SetCursorPosition(35, 9);
-            Console.WriteLine("*********************************************************");
-            Console.SetCursorPosition(35, 10);
-            Console.WriteLine("* Name:        Debloat Files                            *");
-            Console.SetCursorPosition(35, 11);
-            Console.WriteLine("*********************************************************");
-            Console.SetCursorPosition(35, 12);
-            Console.WriteLine("* Purpose:     Delete files that Mac OS X leavs behinde *");
-            Console.SetCursorPosition(35, 13);
-            Console.WriteLine("*********************************************************");
-            Console.SetCursorPosition(35, 14);
-            Console.WriteLine("* Auther:      JJakaJonas                               *");
-            Console.SetCursorPosition(35, 15);
-            Console.WriteLine("*********************************************************");
-            Console.SetCursorPosition(35, 16);
-            Console.WriteLine("* Revision:    0.0.0.1 Beta tester                      *");
-            Console.SetCursorPosition(35, 17);
-            Console.WriteLine("*********************************************************");            
+            Console.SetCursorPosition(15, 7);
+            Console.WriteLine("╔═══════════════════════════════════════════════════════╗");
+            Console.SetCursorPosition(15, 8);
+            Console.WriteLine("║ Name:        Debloat Files                            ║");
+            Console.SetCursorPosition(15, 9);
+            Console.WriteLine("╠═══════════════════════════════════════════════════════╣");
+            Console.SetCursorPosition(15, 10);
+            Console.WriteLine("║ Purpose:     Delete files that Mac OS X leavs behinde ║");
+            Console.SetCursorPosition(15, 11);
+            Console.WriteLine("╠═══════════════════════════════════════════════════════╣");
+            Console.SetCursorPosition(15, 12);
+            Console.WriteLine("║ Auther:      JJakaJonas                               ║");
+            Console.SetCursorPosition(15, 13);
+            Console.WriteLine("╠═══════════════════════════════════════════════════════╣");
+            Console.SetCursorPosition(15, 14);
+            Console.WriteLine("║ Revision:    1.0.0.0                                  ║");
+            Console.SetCursorPosition(15, 15);
+            Console.WriteLine("╚═══════════════════════════════════════════════════════╝");            
 
             //System.Diagnostics.Process process = new System.Diagnostics.Process();
             //System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
@@ -50,7 +50,6 @@ namespace Debloat_files
                 proc.Close();
 
             Console.ReadKey();
-
         }
     }
 }
