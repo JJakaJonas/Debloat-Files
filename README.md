@@ -9,4 +9,6 @@ Microsoft Windows Home Server 2011 (or other Microsoft Windows install) whit a F
 Microsoft Windows Home Server 2011
 
 # Release notes
-None
+
+## 15/04-18 
+Initial Release
